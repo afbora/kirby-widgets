@@ -1,0 +1,52 @@
+.k-widget {
+    padding-bottom: 5px;
+}
+
+.k-widget .k-list-item-text {
+    padding: .25rem .75rem;
+    text-align: right;
+}
+
+.k-widget .k-list-item-image {
+    width: 60px;
+    height: 60px;
+}
+
+.k-widget .k-list-item-image .k-icon {
+    width: 60px;
+    height: 60px;
+}
+
+.k-widget .k-list-item-image .k-icon svg {
+    width: 2rem;
+    height: 2rem;
+}
+
+.k-widget .k-list-item-text {
+    display: block;
+}
+
+.k-widget .k-list-item-text em {
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: normal;
+}
+
+.k-widget .k-list-item-text small {
+    font-weight: 700;
+    font-size: 1.75rem;
+    line-height: 1.75rem;
+}
+
+.k-widget .k-list-item-text em,
+.k-widget .k-list-item-text small {
+    margin: 0;
+    min-width: 0;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.k-widget .k-list-item-text span {
+    font-size: 1rem;
+}
