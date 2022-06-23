@@ -1,11 +1,6 @@
 # Kirby Widgets
 
-[![Source](https://img.shields.io/badge/source-afbora/kirby-widgets-blue?style=flat-square)](https://github.com/afbora/kirby-widgets)
-[![Download](https://img.shields.io/packagist/dt/afbora/kirby-widgets?style=flat-square)](https://github.com/afbora/kirby-widgets)
-[![Open Issues](https://img.shields.io/github/issues-raw/afbora/kirby-widgets?style=flat-square)](https://github.com/afbora/kirby-widgets)
-[![Last Commit](https://img.shields.io/github/last-commit/afbora/kirby-widgets?style=flat-square)](https://github.com/afbora/kirby-widgets)
-[![Release](https://img.shields.io/github/v/release/afbora/kirby-widgets?style=flat-square)](https://github.com/afbora/kirby-widgets)
-[![License](https://img.shields.io/github/license/afbora/kirby-widgets?style=flat-square)](https://github.com/afbora/kirby-widgets)
+This repository has been archived since [Kirby 3.7](https://github.com/getkirby/kirby/releases/tag/3.7.0) supports stats section.
 
 Shows the data you want to see in the Kirby 3 panel.
 
